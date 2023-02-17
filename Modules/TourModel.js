@@ -1,4 +1,4 @@
-const mongoose=require("mongoose");
+const mongoose= require("mongoose");
 const geocoder = require("../utils/Mapping");
 const TourSchema=mongoose.Schema({
     title:{
